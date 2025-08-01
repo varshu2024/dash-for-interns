@@ -102,12 +102,3 @@ Include:
 * Tools used
 * Screenshots (optional)
 
----
-
-Would you like:
-
-* A starter template repo?
-* Complete code example (HTML + Flask backend)?
-* A React version?
-
-Let me know and I’ll generate what you need!
